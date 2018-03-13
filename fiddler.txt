@@ -1,0 +1,22 @@
+1.PC安装fiddler
+2.电脑和手机连接同一wifi（确保在同一局域网）
+3.查看电脑IP，cmd-ipconfig
+4.点击手机wifi，设置代理，手动
+IP 为PC端IP
+端口默认8888(fiddler中也可更改)
+5.iphone手机在浏览器输入电脑IP:8888 安装安全证书
+
+###20180312游戏APP解析
+id	规则id	一级分类id	一级分类名称	2级分类id	二级分类名称	三级分类id	三级分类名称	平台类型	域名规则
+1	333001001	333	游戏	001	腾讯游戏	001	王者荣耀	app	msdk.qq.com/notice/gather_data/?appid=wx95a3a4d7c627e07d
+2	333001001	333	游戏	001	腾讯游戏	001	王者荣耀	app	msdk.qq.com/auth/wxexpired_login/?appid=wx95a3a4d7c627e07
+3	333001001	333	游戏	001	腾讯游戏	001	王者荣耀	app	msdk.qq.com/notice/gather_data/?appid=1104466820
+4	333001001	333	游戏	001	腾讯游戏	001	王者荣耀	app	msdk.qq.com/comm/cloud_center_ctl/?appid=1104466820
+5	333002002	333	游戏	002	网易游戏	002	荒野行动	app	g83.drpf.x.netease.com/
+6	333002002	333	游戏	002	网易游戏	002	荒野行动	app	service.mkey.163.com/mpay/games/aecfs6mwhuaaaakf-g-g83
+7	333002003	333	游戏	002	网易游戏	003	阴阳师	app	g37.drpf.x.netease.com/
+8	333002003	333	游戏	002	网易游戏	003	阴阳师	app	service.mkey.163.com/mpay/games/aecflsysdmaaaag3-g-g37
+9	333003004	333	游戏	003	其他游戏	004	旅行青蛙	app	csi.gstatic.com/csi?action=load_ad_ios&app=jp.co.hit-point.tabikaeru
+
+
+
